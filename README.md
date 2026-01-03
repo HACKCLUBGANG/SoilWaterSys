@@ -16,6 +16,8 @@ Code is in the /code/ folder
 I am not going to use 3d printed parts since its not needed i am going to use glue gun to stick to to my plant pots it will not be damaged by the water
 
 # BOM
+<img width="1210" height="600" alt="image" src="https://github.com/user-attachments/assets/3ae06db8-9629-439c-83d1-4ab49a5f08a7" />
+
 # Bill of Materials (BOM) - Project Electronics
 
 All prices are converted to **USD** at 1 USD = ₹90.
