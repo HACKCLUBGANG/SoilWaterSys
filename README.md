@@ -18,17 +18,22 @@ I am not going to use 3d printed parts since its not needed i am going to use gl
 # BOM
 <img width="1210" height="600" alt="image" src="https://github.com/user-attachments/assets/3ae06db8-9629-439c-83d1-4ab49a5f08a7" />
 
-# Bill of Materials (BOM) - Project Electronics
+# Bill of Materials (BOM) - Electronics Project
 
 All prices are converted to **USD** at 1 USD = ₹90.
 
 | Item | Unit Price (INR) | MOQ | Quantity | Unit Price (USD) | Total Price (USD) |
 |------|----------------|-----|---------|----------------|----------------|
-| Aptechdeals Jumper Wires (10+10+10) | ₹158 | 1 | 1 | $1.76 | $1.76 |
+| SP Electron Combo of Electric Wire (10m Red + 10m Black) | ₹69 | 1 | 1 | $0.77 | $0.77 |
 | Robodo SEN6 Soil Moisture Sensor | ₹95 | 2 | 2 | $1.06 | $2.12 |
 | Robocraze NodeMCU ESP32 Development Board | ₹549 | 1 | 1 | $6.10 | $6.10 |
 
-**Total Cost:** $9.98 USD
+**Subtotal:** $8.99 USD
+
+> Notes:
+> - MOQ for the soil moisture sensor is 2; for all other items it is 1.
+> - Prices are subject to change on Amazon.
+
 
 
 
